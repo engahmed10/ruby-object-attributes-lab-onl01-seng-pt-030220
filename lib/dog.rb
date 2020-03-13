@@ -8,13 +8,11 @@ class Dog
   def name
     @name
   end
-  
+
 
 
 
 end
 
 
-dogname = Dog.new 
-
-
+dogname = Dog.new
