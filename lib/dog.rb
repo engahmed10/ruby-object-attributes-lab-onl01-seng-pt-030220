@@ -26,4 +26,4 @@ end
 dogname = Dog.new
 dogname.name= "Boby"
 dogname.name
-dogname.breed = "" 
+dogname.breed = "animals"
