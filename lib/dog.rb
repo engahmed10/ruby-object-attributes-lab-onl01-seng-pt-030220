@@ -16,3 +16,5 @@ end
 
 
 dogname = Dog.new
+dogname.name= "Boby"
+dogname.name
